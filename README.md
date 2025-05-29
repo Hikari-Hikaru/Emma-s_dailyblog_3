@@ -16,7 +16,6 @@
 <body>
   <header>
     <h1>Emma's daylyblog_3</h1>
-    <h2>2025_04_15</h2>
   </header>
   <main>
     <h2>2025_04_20</h2>
