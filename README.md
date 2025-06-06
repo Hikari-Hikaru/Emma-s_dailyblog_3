@@ -20,9 +20,9 @@
   <main>
     <h2>2025_04_20</h2>
     <p>
-     oday,I took part in a trial session for a school club. <br>
+     oday,I 2ok part in a trial session for a school club. <br>
     Since I've been leaning Hip-Hop sinse I was a kid,andbecause I've always admired the idea of a'cheer dance club!<br><br>
-    as something icconic for high school girls,I'm really grad I got to join!<br><br>
+    as something icconic for high school girls,I'm really grad I got 2 join!<br><br>
     </p>
   </main>
   <footer>
